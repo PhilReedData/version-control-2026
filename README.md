@@ -1,8 +1,8 @@
-# Version Control with Git and GitHub
+# Git for Beginners: Version Control with Git and GitHub
 
-This repository contains the materials for the CDCS introductory workshop on version control. Git is a distributed version control system that keeps track of changes to your project files, which is useful for collaborating with others on all kinds of files, but particularly software code. GitHub (the website you are viewing this on) is an online platform to manage and sync git repositories. This workshop uses [GitHub Desktop](https://desktop.github.com), an app that simplifies working with git and GitHub on your computer.
+This repository contains the materials for the [DH & RSE Summer School 2026](https://dh-rse-summer-school.github.io/DH-RSE-Website/2026.html) introductory workshop on version control. Git is a distributed version control system that keeps track of changes to your project files, which is useful for collaborating with others on all kinds of files, but particularly software code. GitHub (the website you are viewing this on) is an online platform to manage and sync git repositories. This workshop uses [GitHub Desktop](https://desktop.github.com), an app that simplifies working with git and GitHub on your computer.
 
-The materials in this repository have been adapted from [Aislinn Keogh's 2024 version](https://github.com/DCS-training/version-control-2024) of this course.
+The materials in this repository have been adapted from the [2025 CDCS introductory workshop on version control by Joy Lan](https://github.com/DCS-training/version-control-2025), which were adapted from [Aislinn Keogh's 2024 version](https://github.com/DCS-training/version-control-2024) of this course.
 
 ## Getting Ready
 
