@@ -8,8 +8,12 @@ The materials in this repository have been adapted from the [2025 CDCS introduct
 
 Before the course, please do the following:
 
-1. Go to [the GitHub website](https://github.com) and sign up for an account.
-2. Download and install [GitHub Desktop](https://desktop.github.com) on your computer.
+1. Go to [the GitHub website](https://github.com/) and sign up for an account.  
+2. Download and install [GitHub Desktop](https://desktop.github.com/) on your computer. ([Installation instructions](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop))  
+   1. Direct download link for [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32) 10/11  
+   2. Direct download link for [Mac with Apple Silicon](https://central.github.com/deployments/desktop/desktop/latest/darwin-arm64), [Mac with Intel chip](https://central.github.com/deployments/desktop/desktop/latest/darwin)  
+   3. Not yet available for Linux  
+3. [Authenticate](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/authenticating-to-github-in-github-desktop): log into GitHub Desktop with your GitHub account.
 
 ## Topics Covered
 
