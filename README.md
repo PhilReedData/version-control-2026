@@ -20,9 +20,11 @@ Before the course, please do the following:
 
 ## Agenda
 
-| 09:10 - 10:30 | Part 1 |
-| 10:30 - 11:00 | Break  | 
-| 11:00 - 12:30 | Part 2 |
+| Time (BST)    | Section |
+|:--------------|:--------|
+| 09:10 - 10:30 | Part 1  |
+| 10:30 - 11:00 | Break   | 
+| 11:00 - 12:30 | Part 2  |
 
 ## Additional Resources
 
