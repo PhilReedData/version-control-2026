@@ -20,11 +20,13 @@ Before the course, please do the following:
 
 ## Agenda
 
+Wednesday, 1 July 2026
+
 | Time (BST)    | Section |
 |:--------------|:--------|
-| 09:10 - 10:30 | Part 1  |
+| 09:10 - 10:30 | Git for Beginners (Part 1)  |
 | 10:30 - 11:00 | Break   | 
-| 11:00 - 12:30 | Part 2  |
+| 11:00 - 12:30 | Git for Beginners (Part 2)  |
 
 ## Additional Resources
 
