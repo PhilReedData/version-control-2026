@@ -18,6 +18,12 @@ Before the course, please do the following:
 - Live Demos: How to create a repo, make commits, fork a repo, make a pull request, and review a pull request.
 - This workshop uses the GitHub website and the GitHub Desktop app to work with git. We will not be using git on the command line, but some resources to learn this are linked below.
 
+## Agenda
+
+| 09:10 - 10:30 | Part 1 |
+| 10:30 - 11:00 | Break  | 
+| 11:00 - 12:30 | Part 2 |
+
 ## Additional Resources
 
 - [Additional CDCS materials on version control](https://github.com/DCS-training/VersionControl)
