@@ -26,11 +26,16 @@ Before the course, please do the following:
 
 Wednesday, 1 July 2026
 
-| Time (BST)    | Section |
-|:--------------|:--------|
-| 09:10 - 10:30 | Git for Beginners (Part 1)  |
-| 10:30 - 11:00 | Break   | 
-| 11:00 - 12:30 | Git for Beginners (Part 2)  |
+| Time  | Section |
+|:------|:--------|
+| 09:10 | Welcome & introduction |
+| 09:30 | _Live Demo & troubleshooting_: Create your first repo & your first commit |  
+| 10:00 | _Live Demo & troubleshooting_: Create a new branch and merge it |  
+| 10:30 | Break   | 
+| 11:00 |  _Live Demo & troubleshooting_:  Fork a repo & create a pull request |
+| 11:30 |  _Live Demo & troubleshooting_:  Resolving a merge conflict |
+| 12:10 | Wrap up & additional resources |
+| 12:30 | End of session / Lunch |
 
 ## Additional Resources
 
