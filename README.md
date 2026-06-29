@@ -34,6 +34,7 @@ Wednesday, 1 July 2026
 | 10:30 | Break   | 
 | 11:00 |  _Live Demo & troubleshooting_:  Fork a repo & create a pull request |
 | 11:30 |  _Live Demo & troubleshooting_:  Resolving a merge conflict |
+| 12:00 | Generative AI and GitHub |
 | 12:10 | Wrap up & additional resources |
 | 12:30 | End of session / Lunch |
 
